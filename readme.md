@@ -213,11 +213,12 @@ Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ### Demo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.gauravmasand09.vercel.app
+/api/pin/?username=gauravmasand09&repo=gauravmasand09)](https://github.com/gauravmasand09/gauravmasand09)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.gauravmasand09.vercel.app/api/pin/?username=gauravmasand09&repo=gauravmasand09&show_owner=true)](https://github.com/gauravmasand09/gauravmasand09)
 
 # Top Languages Card
 
